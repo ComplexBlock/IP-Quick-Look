@@ -2,6 +2,7 @@
 Tool written in Python that allows you, from a target IP, to detect the open ports, which service runs on each one and detect which OS(Operative System) is the victim's 
 device.
 
+------------------------------------------------------------------------------------------
 
 So easy to use:
 
