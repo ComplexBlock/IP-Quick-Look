@@ -5,9 +5,10 @@ device.
 
 So easy to use:
 
+1. Select the target IP:
 ![image](https://user-images.githubusercontent.com/47004842/236818713-7905c622-460b-4493-afb3-d5be48be6973.png)
-
-![image](https://user-images.githubusercontent.com/47004842/236818960-10097019-06d4-4a38-be61-008ea28d8bd0.png)
-
-![image](https://user-images.githubusercontent.com/47004842/236819304-0b25be62-55be-4164-9672-7b455f9affe4.png)
+2. Select the port range of the scan:
+![image](https://github.com/ComplexBlock/IP-Quick-Look/assets/47004842/31e16f6d-d542-4fcd-bacc-1f8fa0cb21aa)
+3. Done!
+![image](https://github.com/ComplexBlock/IP-Quick-Look/assets/47004842/fa271ac8-ade1-4d99-9fc1-6c9a03525d09)
 
