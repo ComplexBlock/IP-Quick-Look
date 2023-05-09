@@ -4,10 +4,8 @@ import os
 
 
 ip = input("Enter the IP address you want to scan: ")
-
-
-start_port = 1
-end_port = 1023
+start_port = int(input("Enter the starting port for the scan(Example: 1): "))
+end_port = int(input("Enter the ending port for the scan(Example: 1023): "))
 
 
 def port_scan(ip, port):
@@ -39,7 +37,7 @@ def os_detection(ip):
 
 
 print("(...", "Scanning IP address:", ip, "...)")
-print("Testing target ports 1 to 1023 to see if they are open...")
+print(f"Testing target ports {start_port} to {end_port} to see if they are open...")
 open_ports = []
 with concurrent.futures.ThreadPoolExecutor() as executor:
     futures = []
