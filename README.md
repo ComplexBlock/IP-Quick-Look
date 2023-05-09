@@ -15,5 +15,5 @@ So easy to use:
 
 
 3. Done!
-![image](https://github.com/ComplexBlock/IP-Quick-Look/assets/47004842/fa271ac8-ade1-4d99-9fc1-6c9a03525d09)
+![image](https://github.com/ComplexBlock/IP-Quick-Look/assets/47004842/3ff3080a-8f77-40cf-889f-3470e28cda1c)
 
