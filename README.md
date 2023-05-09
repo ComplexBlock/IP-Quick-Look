@@ -1,6 +1,5 @@
 # IP-Quick-Look
-Tool written in Python that allows you, from a target IP, to detect the open ports, which service runs on each one and detect which OS(Operative System) is the victim's 
-device.
+"IP Quick Look" is a automated network scanner that allows you to scan a specified range of ports on a target IP address and detect the operating system of the target machine. It uses multithreading to speed up the port scanning process and provides a simple but effective way to identify potential vulnerabilities in a network and determine the type of system running on the target machine.
 
 ------------------------------------------------------------------------------------------
 
